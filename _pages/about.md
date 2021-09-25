@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Matthieu sommervogel personal website"
+title: "Matthieu Sommervogel personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,7 +14,7 @@ Brief presentation
 ======
 
 Hi, my name is Matthieu,
-A strong taste for sciences and mathematics initially guided my decision to do a pre-prep MP, which I did at the lycée Marcelin Berthelot in Saint Maur des Fossés.
+A strong taste for sciences and mathematics initially guided my decision to do a preparatory class in math and physics, which I did at the lycée Marcelin Berthelot in Saint Maur des Fossés.
 
 I then entered the Ecole Centrale de Lille where I spent 2 years.
 I am now in double degree with the university of Lille where I study data science. 
