@@ -11,36 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2019-2021 : Centrale Lille
+  * Programmation orientée objet
+  * Développement Web (HTML,CSS,Javascript) : Utilisation d’API REST et de jQuery
+  * Défi Centrale : Création d’un jeu 3D en réseau et d’un jeu de réflexion en 3D à la première personne
+* 2017-2019 :CPGE
+  * Lycée Marcelin Berthelot filière MP
+* 2017 : Baccalauréat S mention TB
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 : Stage RTE
+* *Stage de 1 mois au sein de l’équipe SIRIUS de RTE*
+  * Support Linux
+  * Migration d’OS
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020 : Projet vêtement connecté scoliose
+* *Projet en partenariat avec un kinésithérapeute ayant pour objectif de 
+créer un vêtement connecté à une application montrant l’évolution 
+de la scoliose d’un patient.*
+  * Développement de l’application en Java avec Android Studio
+  * Création de socket Bluetooth pour établir une communication avec le vêtement.
+  * Multi-threading
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Unity (Moteur de jeu)
+*3D et 2D*
+* Langages de programmation
+*C#, Java and Python*
+* Blender (Modélisation 3D)
+*Projet personnel de jeu vidéo*
 
-Publications
+Centres d’interêt
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Jonglerie (diabolo et balles)
+  * 10 ans de pratique du diabolo à haut niveau
+  * Participation à des conventions internationales
+  * Gagnant de Talent du Nord : Concours artistique entre les étudiants de la métropole Lilloise
+* Tennis et tennis de table
+*Compétition*
+* Volley et course à pied
+* Magie
   
 Talks
 ======
