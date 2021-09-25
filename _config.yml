@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "M. Sommervogel"
 title_separator          : "-"
 name                     : &name "Sommervogel Matthieu"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "M. Sommervogel"
   avatar           : "me.jpg"
-  bio              : "student in master of data science at the university of lille"
+  bio              : "Student in master of data science at the university of lille"
   location         : "Lille"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "matthieu.sommervogel@centrale.centralelille.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://fr.linkedin.com/in/matthieu-sommervogel-35887b196"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
